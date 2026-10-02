@@ -1,0 +1,6 @@
+{
+  "name": "Gemini VoiceStudio - AI Text-to-Speech & MP3 Exporter",
+  "description": "Convert text to high-fidelity lifelike speech using Gemini TTS with expressive reading styles, customizable voice personas, and direct MP3 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
